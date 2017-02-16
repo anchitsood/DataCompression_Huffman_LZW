@@ -21,7 +21,7 @@
 	(though not in the quickest possible times).
 	
 	This project is implemented as a solution to a problem set. Detailed description of the problem
-	is available in Compression.pdf. The implemented code is available in Huffman_LZW as a project.
+	is available in Compression.pdf.
 	
 	Code practices to note: Various classes have been used to build the solution. Note use of OOP
 	practices for simplicity and reusability. Multiple data srtuctures including hashmap, binary tree,
